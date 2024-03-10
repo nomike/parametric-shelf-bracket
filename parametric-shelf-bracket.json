@@ -1,0 +1,29 @@
+{
+    "parameterSets": {
+        "10x10x25-2_holes": {
+            "width": "10",
+            "height": "10",
+            "length": "25",
+            "hole_count": "2"
+        },
+        "10x10x50-3_holes": {
+            "width": "10",
+            "height": "10",
+            "length": "50",
+            "hole_count": "3"
+        },
+        "5x10x15-1_hole": {
+            "width": "5",
+            "height": "10",
+            "length": "15",
+            "hole_count": "1"
+        },
+        "5x10x50-4_holes": {
+            "width": "5",
+            "height": "10",
+            "length": "50",
+            "hole_count": "4"
+        }
+    },
+    "fileFormatVersion": "1"
+}

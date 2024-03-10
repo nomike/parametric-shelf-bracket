@@ -20,5 +20,8 @@
     "output/parametric-shelf-bracket-5x10x15-1_hole.stl",
     "output/parametric-shelf-bracket-10x10x25-2_holes.stl"
   ],
-  "images": []
+  "images": [
+    "photos/installed.png",
+    "photos/printed_samples.png"
+  ]
 }

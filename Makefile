@@ -21,7 +21,7 @@ $(OUTPUT_DIR):
 	mkdir -p $@
 
 $(call stl_filename,%): $(OPENSCAD_FILE) $(PARAMETER_SETS_FILE)
-	openscad -o $@ $(OPENSCAD_FILE) -p $(PARAMETER_SETS_FILE) -P '$(1)'
+	openscad -o $@ $(OPENSCAD_FILE) -p $(PARAMETER_SETS_FILE) -P '$(subst .stl,,$(subst $(subst .scad,,$(OPENSCAD_FILE))-,,$(@F)))'
 
 clean:
 	rm -f $(OUTPUT_DIR)/*.stl

@@ -10,7 +10,7 @@ I've used 2 perimeters and 50% cubic infill to give it enough strength. As the b
 This design is my original design. It uses the OpenSCAD Screw Holes library from https://www.thingiverse.com/thing:1731893.\
 
 ## Thingiverse
-https://www.thingiverse.com/thing:6525086/files
+https://www.thingiverse.com/thing:6525086
 
 ## Github
 https://github.com/nomike/parametric-shelf-brackets

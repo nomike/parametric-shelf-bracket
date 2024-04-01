@@ -11,7 +11,6 @@
     "instructions": "Print and enjoy",
     "is_wip": false,
     "license": "gpl3",
-    "description": "# Parametric shelf bracket\n\nThis is a parametric shelf bracket that can be used to hold shelves. You can screw it inside wardrobes and other furniture or between two walls and lay a shelf board on top of it.\n\nI've printed it in PETG but PLA might be OK too.\nI've used 2 perimeters and 50% cubic infill to give it enough strength. As the brackets are very tiny, I wouldn\u00b4t  have saved a lot of time or filament by using less infill.\n\n## Acknowledgements\n\nThis design is my original design. It uses the OpenSCAD Screw Holes library from https://www.thingiverse.com/thing:1731893.\\\n\n## Thingiverse\nhttps://www.thingiverse.com/thing:6525086\n\n## Github\nhttps://github.com/nomike/parametric-shelf-brackets\n",
     "id": 6525086
   },
   "files": [

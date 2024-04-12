@@ -13,4 +13,4 @@ This design is my original design. It uses the OpenSCAD Screw Holes library from
 
 #### Github
 
-<https://github.com/nomike/parametric-shelf-brackets>
+<https://github.com/nomike/parametric-shelf-bracket>
